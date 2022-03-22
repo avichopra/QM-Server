@@ -1,0 +1,18 @@
+{
+  "name": "real-time-updates",
+  "version": "1.0.0",
+  "description": "socket plugin for graphql-store for real time update",
+  "main": "./index.js",
+  "author": "daffodil",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "google-distance": "^1.0.1",
+    "socket.io": "1.7.1"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.7.5"
+  }
+}

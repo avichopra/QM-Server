@@ -1,0 +1,19 @@
+{
+  "name": "gps_signal_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crc": "^3.8.0",
+    "crc-itu": "^0.1.0",
+    "net": "^1.0.2",
+    "node-crc-itu": "^0.1.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
